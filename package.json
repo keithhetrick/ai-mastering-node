@@ -1,0 +1,26 @@
+{
+  "name": "ai-mastering-node",
+  "version": "1.0.0",
+  "description": "AI Mastering API tutorial written in node.js.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ai-mastering/tutorialnode.git"
+  },
+  "author": "AI Mastering",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ai-mastering/tutorialnode/issues"
+  },
+  "homepage": "https://github.com/ai-mastering/tutorialnode#readme",
+  "dependencies": {
+    "aimastering": "^1.1.0",
+    "commander": "^2.17.1",
+    "dotenv": "^16.0.3",
+    "lodash": "^4.17.21",
+    "secure-random-string": "^1.1.3"
+  }
+}
